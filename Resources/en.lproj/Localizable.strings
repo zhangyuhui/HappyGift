@@ -1,0 +1,21 @@
+//
+//  Localizable.strings
+//  HappyGift
+//
+//  Created by Zhang Yuhui on 2/11/11.
+//  Copyright 2011 Ztelic Inc Inc. All rights reserved.
+//
+
+/*Strings in code*/
+"1 hour ago" = "1小时前";
+"%i hours ago" = "%i小时前";
+"1 minute ago" = "1分钟前o";
+"%i minutes ago" = "%i分钟前";
+"1 second ago" = "1秒钟前";
+"%i seconds ago" = "%i秒钟前";
+"1 day ago" = "1天前";
+"%i days ago" = "%i天前";
+"Last update:%@" = "最后更新: %@";
+
+
+"Related News" = "相关新闻";
